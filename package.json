@@ -259,7 +259,7 @@
     "safe-buffer": "^5.1.2",
     "safe-regex": "^1.1.0",
     "semver": "^5.6.0",
-    "serialize-javascript": "^1.4.0",
+    "serialize-javascript": "^2.1.1",
     "setimmediate": "^1.0.5",
     "setprototypeof": "^1.1.0",
     "sha.js": "^2.4.11",
